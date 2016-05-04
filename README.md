@@ -1,2 +1,2 @@
 # sinsle.github.io
-Blog
+自用网站资源导航，单页简约版
