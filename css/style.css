@@ -14,5 +14,5 @@ body{background:#F5F6F8;}
 .site{width:100%;}
 .site ul{}
 .site ul li{height:45px;float:left;width:32%;line-height:45px;padding:1px;}
-.site ul li a{display:block;color:#000;background:#fff;border-radius:3px;}
+.site ul li a{display:block;color:#585B6F;background:#fff;border-radius:3px;}
 .site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
