@@ -1,3 +1,18 @@
 ﻿@charset "utf-8";
-/* reset*/
-ul,li{list-style:none;}
+*{margin:0;padding:0;font-family:Microsoft Yahei,sans-serif;font-size:14px;list-style:none;text-decoration:none;}
+body{background:#F5F6F8;}
+.head{height:60px;width:1100px;margin:0 auto;padding-top:50px;}
+.logo{float:left;height:60px;width:100px;}
+.logo a{font-size:45px;color:#000;}
+.custom{float:right;height:60px;width:600px;line-height:60px;padding-left:400px;}
+.custom ul li{float:left;width:60px;text-align:center;}
+.custom a{color:#000;}
+
+.content{width:1100px;padding-top:20px;margin:0 auto;text-align:center;}
+.category{width:33.33%;float:left;padding-top:10px;}
+.caption{width:33.33%;height:33px;line-height:33px;float:left;}
+.site{width:100%;}
+.site ul{}
+.site ul li{height:45px;float:left;width:32%;line-height:45px;padding:1px;}
+.site ul li a{display:block;color:#000;background:#fff;border-radius:3px;}
+.site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
