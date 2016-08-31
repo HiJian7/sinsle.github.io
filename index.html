@@ -6,6 +6,7 @@
 <meta name="description" content="Sinsle,个人主页," />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link href="css/style.css?001" rel="stylesheet" />
+<script src="js/search.js"></script>
 </head>
 <body>
 <!--*******************Head*******************-->
@@ -21,7 +22,24 @@
 </div>
 </div>
 
-
+<!--*******************Content*******************-->
+<div id="search">
+<div class="searchlogo">
+<ul><li style="display:block;"><img src="http://sandbox.runjs.cn/uploads/rs/178/m6nswgpp/baidu.png" /></li>
+<li style="display:none;"><img src="http://sandbox.runjs.cn/uploads/rs/178/m6nswgpp/google.png" /></li></ul>
+</div>
+<div class="from_box" id="from_box">
+<form id="from_baidu" style="display:block" action="http://www.baidu.com/baidu" target="_blank" method="get">
+<input name="" type="hidden" value="baidu" />
+<input type="text" name="word" />
+<input class="button" type="submit" value="百度一下" onMouseOver="this.style.opacity='1'" onMouseOut="this.style.opacity='0.7'" />
+</form>
+<form id="from_google" style="display:none" action="http://www.google.com/search" target="_blank" method="get">
+<input type="text" name="q" />
+<input class="button" type="submit" value="谷歌搜索" onMouseOver="this.style.opacity='1'" onMouseOut="this.style.opacity='0.7'" />
+</form>
+</div>
+</div>
 
 <!--*******************Content*******************-->
 <div class="content">
