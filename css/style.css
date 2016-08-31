@@ -18,14 +18,14 @@ body{background:#F5F6F8;}
 .site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
 
 /* 综合搜索样式 */
-#search {width:710px;margin:10px auto;}
-#search .searchlogo{width:110px;height:36px;float:left;}
+#search {width:730px;margin:10px auto;height:16px;padding:10px 0;}
+#search .searchlogo{width:110px;height:36px;float:left;padding-right:10px;}
 #search .searchlogo ul {list-style: none;margin:0;padding:0;}
 #search .searchlogo ul li {border:0;margin:0;padding:0;height:36px;width:110px;}
 
-#search .from_box{width:600px;float:left;}
+#search .from_box{width:610px;float:left;}
 #search .selected {display: block;}
 #search form {margin:0;padding:0;}
-#search input {height: 36px;width: 500px;margin:0;font-size:16px;}
-#search .button {font-size: 16px;color: #000;height: 36px;width: 100px;margin:0 0 0 -9px;padding:0;
-background:url(http://sandbox.runjs.cn/uploads/rs/178/m6nswgpp/button_v.png);opacity: 0.8;border:0;cursor: pointer;}
+#search input {height: 36px;width: 500px;margin:0;font-size:16px;border:0;box-shadow: 0 0 5px 1px #999;}
+#search .button {font-size: 16px;color: #000;height: 36px;width: 100px;margin:0 0 0 -3px;padding:0;
+background:#eee;opacity: 0.8;border:0;cursor: pointer;}
