@@ -41,15 +41,13 @@ for (var i = 1; i < length; i++) {
 		}
 	}(i);
 	li[i].onmouseover = function() {
-		this.style.border =
-			"#7fb80e 1px solid";
 		this.style.background =
-			"#f2eada";
+			"#fff";
 	}
 		li[i].onmouseout =
 			function() {
-				this.style.border = "0px";
 				this.style.background = "inherit";
+				this.style.display = "none";
 			}
 }
 //隐藏搜索框表单的函数
