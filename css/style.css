@@ -18,7 +18,7 @@ body{background:#F5F6F8;}
 .site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
 
 /* 综合搜索样式 */
-#search {width:730px;margin:10px auto;height:16px;padding:10px 0;}
+#search {width:750px;margin:10px auto;height:16px;padding:10px 0;}
 #search .searchlogo{width:110px;height:36px;float:left;padding-right:10px;}
 #search .searchlogo ul {list-style: none;margin:0;padding:0;}
 #search .searchlogo ul li {border:0;margin:0;padding:0;height:36px;width:110px;}
