@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 *{margin:0;padding:0;font-family:Microsoft Yahei,sans-serif;font-size:14px;list-style:none;text-decoration:none;}
-body{background:url(http://7u2mbg.com1.z0.glb.clouddn.com/mountain.jpg) fixed no-repeat cover;background:#F5F6F8;}
+body{background:url(http://7u2mbg.com1.z0.glb.clouddn.com/mountain.jpg) fixed no-repeat cover;}
 .head{height:60px;width:1100px;margin:0 auto;padding-top:50px;}
 .logo{float:left;height:60px;width:150px;}
 .logo a{font-size:45px;color:#000;}
