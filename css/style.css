@@ -15,7 +15,7 @@ background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-we
 .site{width:100%;}
 .site ul{}
 .site ul li{height:45px;float:left;width:32%;line-height:45px;padding:1px;}
-.site ul li a{display:block;color:#585B6F;background:#fff;border-radius:3px;opacity:0.8;}
+.site ul li a{display:block;color:#585B6F;background:#fff;border-radius:3px;opacity:0.9;}
 .site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
 
 /* 综合搜索样式 */
