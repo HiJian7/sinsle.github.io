@@ -1,6 +1,7 @@
 ﻿@charset "utf-8";
 *{margin:0;padding:0;font-family:Microsoft Yahei,sans-serif;font-size:14px;list-style:none;text-decoration:none;}
-body{background-image:url(http://7u2mbg.com1.z0.glb.clouddn.com/mountain.jpg);background-attachment:fixed;background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover;}
+body{background-image:url(http://7u2mbg.com1.z0.glb.clouddn.com/mountain.jpg);background-attachment:fixed;
+background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover;}
 .head{height:60px;width:1100px;margin:0 auto;padding-top:50px;}
 .logo{float:left;height:60px;width:150px;}
 .logo a{font-size:45px;color:#000;}
@@ -14,7 +15,7 @@ body{background-image:url(http://7u2mbg.com1.z0.glb.clouddn.com/mountain.jpg);ba
 .site{width:100%;}
 .site ul{}
 .site ul li{height:45px;float:left;width:32%;line-height:45px;padding:1px;}
-.site ul li a{display:block;color:#585B6F;background:#fff;border-radius:3px;}
+.site ul li a{display:block;color:#585B6F;background:#fff;border-radius:3px;opacity:0.50;}
 .site ul li a:hover{background:#405061;color:#fff;font-size:18px;}
 
 /* 综合搜索样式 */
